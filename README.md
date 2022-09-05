@@ -8,3 +8,4 @@ Contents:
 - Unactivated Lightium Dust (Obtained by smelting the ore).
 - Activated Lightium Ingot (Obtained by smelting the dust).
 - Activated Lightium Armour.
+- Note to slef: talk about new dimension here.
